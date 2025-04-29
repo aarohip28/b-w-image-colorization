@@ -12,7 +12,7 @@ image. The colorized image is then converted back to the RGB color space and cli
  [0, 1]. The clipped image is then multiplied by 255 and converted to the uint8 data type. The original 
 grayscale image and the colorized image are then displayed.
 
-The code you provided appears to be a script for colorizing a grayscale image using the OpenCV library. 
+This is a  script for colorizing a grayscale image using the OpenCV library. 
 It uses a pre-trained deep neural network model for colorization. Here's a breakdown of what the code 
 does:
 
